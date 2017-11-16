@@ -12,6 +12,7 @@ html, body {
 	min-height: 100%;
 }
 
+
 form {
 	text-align: center;
 }
@@ -52,7 +53,7 @@ a {
 .login_header {
 	font-family: 'Bellota-LightItalic', sans-serif;
 	width: 100%;
-	height: 90px;
+	height: 210px;
 	background-color: #3498db;
 	color: #fff;
 	text-align: center;
@@ -75,7 +76,7 @@ input[type="submit"] {
 	border-radius: 3px;
 	margin: 5px 0 10px 0;
 	padding: 5px 10px 5px 10px;
-	color: #2C6C96;
+	color: #fff;
 	text-shadow: #73B6E2 0.5px 0.5px 0px;
 	font-family: 'Bellota-BoldItalic', sans-serif;
 	font-size: 100%;
